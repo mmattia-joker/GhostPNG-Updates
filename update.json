@@ -1,6 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "message": "تم تحديث التطبيق لدعم التحديثات التلقائية.\nتم تحسين واجهة المستخدم.",
+  "message": "",
+  "testmessage": "تم تحديث التطبيق لدعم التحديثات التلقائية.\nتم تحسين واجهة المستخدم.",
   "apkUrl": "https://raw.githubusercontent.com/mmattia-joker/GhostPNG-Updates/main/GhostPNG.apk"
 }
